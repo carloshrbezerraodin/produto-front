@@ -14,7 +14,7 @@ const Home = () => {
 
 
   const message =
-    <h2>Seja Bem vindo controler de produtos</h2> 
+    <h2>Seja Bem vindo controle de produtos</h2> 
 
   const button = 
     <div>
